@@ -1,0 +1,57 @@
+name: Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+
+  workflow_dispatch:
+
+concurrency:
+  group: scraper-production
+  cancel-in-progress: true
+
+jobs:
+  scraper:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper script
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}
+        run: python main.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          git add hddtvn.json date.txt || true
+          
+          if git diff --staged --quiet; then
+            echo "✅ No changes detected. Skipping commit."
+            exit 0
+          else
+            echo "Changes detected. Committing..."
+            git commit -m "🤖 Auto-update $(date +'%Y-%m-%d')"
+          
+            git pull --rebase origin main
+          
+            git push
+          fi

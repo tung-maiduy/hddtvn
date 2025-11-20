@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (Optional: Remove logic below if you WANT to commit data)
+# But usually, you want to keep the JSON, so strictly ignore temps:
+*.tmp
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
