@@ -1,0 +1,807 @@
+[
+    {
+        "stt": "1",
+        "ten_to_chuc": "Công ty TNHH Công nghệ Vĩnh Hy",
+        "mst": "0314743623",
+        "dia_chi": "82 Đường 76, Phường 10, Quận 6, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://ehoadondientu.com"
+    },
+    {
+        "stt": "2",
+        "ten_to_chuc": "Công ty TNHH Hệ thống thông tin FPT",
+        "mst": "0104128565",
+        "dia_chi": "Tầng 22, tòa nhà Keangnam Landmark, E6 Phạm Hùng, quận Nam Từ Liêm, Tp  Hà Nội",
+        "trang_thong_tin": "https://einvoice.fpt.com.vn"
+    },
+    {
+        "stt": "3",
+        "ten_to_chuc": "Công ty Cổ phần Công nghệ tin học EFY Việt Nam",
+        "mst": "0102519041",
+        "dia_chi": "Tầng 9, tòa nhà Sannam, số 78 phố Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://ihoadon.vn"
+    },
+    {
+        "stt": "4",
+        "ten_to_chuc": "Công ty Cổ phần Đầu tư công nghệ và thương mại Softdreams",
+        "mst": "0105987432",
+        "dia_chi": "Số 7, ngách 97/1, ngõ 97 Chính Kinh, phường Nhân Chính, quận Thanh Xuân, Tp Hà Nội",
+        "trang_thong_tin": "https://easyinvoice.vn"
+    },
+    {
+        "stt": "5",
+        "ten_to_chuc": "Công ty TNHH L.C.S",
+        "mst": "0302999571",
+        "dia_chi": "Số 102A, Bùi Minnh Trực, phường 6, quận 8, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://einvoice.lcs.com.vn"
+    },
+    {
+        "stt": "6",
+        "ten_to_chuc": "Công ty TNHH Soft Ware KK VAT",
+        "mst": "0313963672",
+        "dia_chi": "101017/46A Lê Văn Lương, Ấp 3, Xã Phước Kiển, Huyện nhà Bè, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://kkvat.com.vn/thongtin"
+    },
+    {
+        "stt": "7",
+        "ten_to_chuc": "Công ty Cổ phần CyberLotus",
+        "mst": "0105232093",
+        "dia_chi": "Tầng 4, tòa nhà Vinata2B, số 289 Khuất Duy Tiến, phường Trung Hòa, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://cyberbill.vn"
+    },
+    {
+        "stt": "8",
+        "ten_to_chuc": "Côngty TNHH Giải pháp công nghệ Ngô Gia Phát",
+        "mst": "0311942758",
+        "dia_chi": "Số 1134/16/2/13 Nguyễn Văn Quá, phường Đông Hưng Thuận, quận 12, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://www.ngogiaphat.vn"
+    },
+    {
+        "stt": "9",
+        "ten_to_chuc": "Công ty Cổ phần Mắt Bão",
+        "mst": "0302712571",
+        "dia_chi": "12A Núi Thành, phường 13, quận Tân Bình, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://matbao.in"
+    },
+    {
+        "stt": "10",
+        "ten_to_chuc": "Công ty Cổ phần công nghệ thẻ Nacencomm",
+        "mst": "0103930279",
+        "dia_chi": "Tầng 5, số 2 Chùa Bộc, phường Trung Tự, quận Đống Đa, Tp Hà Nội",
+        "trang_thong_tin": "https://www.nacencomm.com.vn/dich-vu-chi-tiet/hoa-don-dien-tu"
+    },
+    {
+        "stt": "11",
+        "ten_to_chuc": "Công ty Cổ phần Megabiz Việt Nam",
+        "mst": "0105844836",
+        "dia_chi": "Số 3 ngõ 15 đường Nghĩa Dũng, phường Phúc Xá, quận Ba Đình, Tp Hà Nội",
+        "trang_thong_tin": "https://vinvoice.vn"
+    },
+    {
+        "stt": "12",
+        "ten_to_chuc": "Công ty TNHH Công nghệ LCD Việt Nam",
+        "mst": "0312483391",
+        "dia_chi": "26/1 Trần Quang Khải, phường Tân Định, quận 1, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://azinvoice.com"
+    },
+    {
+        "stt": "13",
+        "ten_to_chuc": "Công ty Cổ phần MISA",
+        "mst": "0101243150",
+        "dia_chi": "Tầng 9, tòa nhà Technosoft,phố Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://www.meinvoice.vn/"
+    },
+    {
+        "stt": "14",
+        "ten_to_chuc": "Công ty TNHH Hóa đơn điện tử             M-INVOICE",
+        "mst": "0106026495",
+        "dia_chi": "Số nhà 16, ngõ 269/1 đường Giáp Bát, phường Giáp Bát, quận Hoàng Mai, Tp Hà Nội",
+        "trang_thong_tin": "https://minvoice.vn/"
+    },
+    {
+        "stt": "15",
+        "ten_to_chuc": "Công ty Cổ phần Phát triển công nghệ Nguyễn Minh",
+        "mst": "0313906508",
+        "dia_chi": "Số 11/8 Tân Quý, phường Tân Quý, quận Tân Phú, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://www.nguyenminhvat.vn"
+    },
+    {
+        "stt": "16",
+        "ten_to_chuc": "Công ty TNHH Phát triển công nghệ Thái Sơn",
+        "mst": "0101300842",
+        "dia_chi": "Số 362, Phố Huế, phường Phố Huế quận Hai Bà Trưng, Tp Hà Nội",
+        "trang_thong_tin": "https://www.einvoice.vn"
+    },
+    {
+        "stt": "17",
+        "ten_to_chuc": "Công ty TNHH Máy tính và truyền thông công nghệ kết nối",
+        "mst": "0306784030",
+        "dia_chi": "213/59/17 Quang Trung, phường 10, quận Gò Vấp, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://ehoadon.online"
+    },
+    {
+        "stt": "18",
+        "ten_to_chuc": "Công ty Cổ phần công nghệ số và in đồ họa",
+        "mst": "0200638946",
+        "dia_chi": "Số 15/616 đường Nguyễn Văn Linh, phường Vĩnh Niệm, quận Lê Chân, Tp Hải Phòng",
+        "trang_thong_tin": "https://oinvoice.vn"
+    },
+    {
+        "stt": "19",
+        "ten_to_chuc": "Công ty TNHH Win Tech Solution",
+        "mst": "0312303803",
+        "dia_chi": "16-18 Xuân Diệu, Phường 4, Quận Tân Bình, TP.HCM",
+        "trang_thong_tin": "https://wininvoice.vn"
+    },
+    {
+        "stt": "20",
+        "ten_to_chuc": "Tập đoàn Công nghiệp - Viễn thông quân đội",
+        "mst": "0100109106",
+        "dia_chi": "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hòa, Quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://viettel.vn/s-invoice"
+    },
+    {
+        "stt": "21",
+        "ten_to_chuc": "Công ty Cổ phần Công nghệ thông tin Đông Nam Á",
+        "mst": "0102454468",
+        "dia_chi": "Phòng 112, tầng 11, Tòa nhà Viglacera, Phường Mễ Trì, Quận Nam Từ Liêm, Tp Hà Nội, Việt Nam",
+        "trang_thong_tin": "https://tax24.com.vn/thuedientu/san-pham-dich-vu/hoa-don-dien-tu"
+    },
+    {
+        "stt": "22",
+        "ten_to_chuc": "Công ty Cổ phần hóa đơn điện tử New-Invoice",
+        "mst": "0105937449",
+        "dia_chi": "Lô 73, khu tập thể Trung tâm Chỉnh Hình, phường Yên Hòa, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://newinvoice.com.vn"
+    },
+    {
+        "stt": "23",
+        "ten_to_chuc": "Công ty Cổ phần Giải pháp phần mềm 3A",
+        "mst": "0108516079",
+        "dia_chi": "Số 1A, ngõ 343, đường An Dương Vương, phường Phú Thượng, quận Tây Hồ, Tp Hà Nội",
+        "trang_thong_tin": "http://3asoft.vn"
+    },
+    {
+        "stt": "24",
+        "ten_to_chuc": "Tổng công ty Viễn thông Mobifone",
+        "mst": "0100686209",
+        "dia_chi": "Số 01 phố Phạm Văn Bạch, phường Yên Hòa, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://itc.mobifone.vn/giai_phap/mobifone-invoice"
+    },
+    {
+        "stt": "25",
+        "ten_to_chuc": "Công ty Cổ phần BKAV",
+        "mst": "0101360697",
+        "dia_chi": "Tầng 2, tòa nhà HH1 - Khu đô thị Yên Hòa, phường Yên Hòa, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://van.ehoadon.vn"
+    },
+    {
+        "stt": "26",
+        "ten_to_chuc": "Công ty Cổ phần phát triển phần mềm ASIA",
+        "mst": "0101162173",
+        "dia_chi": "Số 6 Vũ Ngọc Phan, phường Láng Hạ, quận Đống Đa, Tp Hà Nội",
+        "trang_thong_tin": "https://asiainvoice.vn"
+    },
+    {
+        "stt": "27",
+        "ten_to_chuc": "Công ty Cổ phần thương mại Visnam",
+        "mst": "0401486901",
+        "dia_chi": "Số 33 đường Hải Hồ, phường Thanh Bình, quận Hải Châu, Tp Đà Nẵng",
+        "trang_thong_tin": "https://vin-hoadon.com"
+    },
+    {
+        "stt": "28",
+        "ten_to_chuc": "Công ty Cổ phần Thiết bị điện - Điện tử Bách Khoa",
+        "mst": "0200784873",
+        "dia_chi": "Số 561 Nguyễn Bỉnh Khiêm, phường Đằng Hải, quận Hải An, Tp Hải Phòng",
+        "trang_thong_tin": "https://dinhvibachkhoa.vn"
+    },
+    {
+        "stt": "29",
+        "ten_to_chuc": "Tập Đoàn Bưu chính viễn thông Việt Nam",
+        "mst": "0100684378",
+        "dia_chi": "Số 57 Huỳnh Thúc Kháng, Phường Láng Hạ, Quận Đống Đa, Tp.Hà Nội",
+        "trang_thong_tin": "https://vnpt-invoice.com.vn/"
+    },
+    {
+        "stt": "30",
+        "ten_to_chuc": "Công ty Cổ phần dịch vụ T-VAN HILO",
+        "mst": "0106713804",
+        "dia_chi": "Số 18 Đoàn Trần Nghiệp, phường Bùi Thị Xuân, quận Hai Bà Trưng, Tp Hà Nội",
+        "trang_thong_tin": "https://hiloinvoice.vn"
+    },
+    {
+        "stt": "31",
+        "ten_to_chuc": "Công ty Cổ phần Minh Khang Group",
+        "mst": "0314209362",
+        "dia_chi": "120A Trần Kế Xương, phường 7, quận Phú Nhuận, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://hoadondientuvat.com/Thong-tin"
+    },
+    {
+        "stt": "32",
+        "ten_to_chuc": "Công ty Cổ phần Giải pháp hóa đơn điện tử Việt Nam",
+        "mst": "0101352495",
+        "dia_chi": "Tầng 7 tòa nhà Công ty 29, ngõ 73 đường Nguyễn Trãi, phường Khương Trung, quận Thanh Xuân, Tp Hà Nội",
+        "trang_thong_tin": "https://www.vninvoice.vn"
+    },
+    {
+        "stt": "33",
+        "ten_to_chuc": "Công ty Cổ phần giải pháp thanh toán Việt Nam",
+        "mst": "0102182292",
+        "dia_chi": "Tầng 8, số 22, phố Láng Hạ, quận Đống Đa, Tp Hà Nội",
+        "trang_thong_tin": "https://www.vnpay.vn"
+    },
+    {
+        "stt": "34",
+        "ten_to_chuc": "Công ty Cổ phần ICORP",
+        "mst": "0106870211",
+        "dia_chi": "Số 32/21 phố Trương Công Giai, phường Dịch Vọng, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://vietinvoice.vn"
+    },
+    {
+        "stt": "35",
+        "ten_to_chuc": "Công ty Cổ phần đầu tư và công nghệ idocNet",
+        "mst": "0104614692",
+        "dia_chi": "Số 27 Huỳnh Thúc Kháng, Quận Đống Đa, Tp Hà Nội",
+        "trang_thong_tin": "https://hoadontvan.com"
+    },
+    {
+        "stt": "36",
+        "ten_to_chuc": "Công ty Cổ phần chữ ký số VI NA",
+        "mst": "0309612872",
+        "dia_chi": "41A Nguyễn Phi Khanh, phường Tân Định, quận 1, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://www.smartsign.com.vn"
+    },
+    {
+        "stt": "37",
+        "ten_to_chuc": "Công ty Cổ phần TS24",
+        "mst": "0309478306",
+        "dia_chi": "Số 285/94B Cách Mạnh Tháng Tám, phường 12, quận 10, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://www.xuathoadon.vn/"
+    },
+    {
+        "stt": "38",
+        "ten_to_chuc": "Công ty TNHH Hóa đơn điện tử TCT",
+        "mst": "0315298333",
+        "dia_chi": "114-116 Lưu Chí Hiếu, phường Tây Thạnh, quận Tân Phú, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://www.tctinvoice.com"
+    },
+    {
+        "stt": "39",
+        "ten_to_chuc": "Công ty TNHH Tin học Tia lửa Việt",
+        "mst": "0303609305",
+        "dia_chi": "14 đường 3C, phường An Lạc A, quận Bình Tân, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://ihoadondientu.com"
+    },
+    {
+        "stt": "40",
+        "ten_to_chuc": "Công ty Cổ phần phần mềm quản lý doanh nghiệp",
+        "mst": "0100727825",
+        "dia_chi": "Tầng 3 Tòa nhà CT1B Khu đô thị VOV Mễ Trì, phường Mễ Trì, quận Nam Từ Liêm, TP. Hà Nội",
+        "trang_thong_tin": "https://www.fast.com.vn"
+    },
+    {
+        "stt": "41",
+        "ten_to_chuc": "Công ty TNHH ACCONLINE.VN",
+        "mst": "0315467091",
+        "dia_chi": "341 Lê Trọng Tấn, phường Sơn Kỳ, quận Tân Phú,Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://www.acconine.vn"
+    },
+    {
+        "stt": "42",
+        "ten_to_chuc": "Công ty Cổ phần công nghệ hóa đơn điện tử HT",
+        "mst": "0315638251",
+        "dia_chi": "23/3 Mai Lão Bạng, phường 13, quận Tân Bình, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://htinvoice.com.vn"
+    },
+    {
+        "stt": "43",
+        "ten_to_chuc": "Công ty Cổ phần công nghệ ITT",
+        "mst": "0105958921",
+        "dia_chi": "Số 15 ngõ 134 Lê Trọng Tấn, phường Khương Mai, quận Thanh Xuân, Tp Hà Nội",
+        "trang_thong_tin": "https://cloudinvoice.vn"
+    },
+    {
+        "stt": "44",
+        "ten_to_chuc": "Công ty TNHH PA Việt Nam",
+        "mst": "0302431595",
+        "dia_chi": "750 Sư Vạn Hạnh (nối dài), phường 12, quận 10, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://hoadon30s.vn"
+    },
+    {
+        "stt": "45",
+        "ten_to_chuc": "Công ty Cổ phần tích hợp công nghệ VNISC",
+        "mst": "0103018807",
+        "dia_chi": "Số 21 ngõ 84/24 phó Ngọc Khánh, phường Giảng Võ, quận Ba Đình, Tp Hà Nội",
+        "trang_thong_tin": "https://vnisc.com.vn"
+    },
+    {
+        "stt": "46",
+        "ten_to_chuc": "Công ty TNHH Giải pháp hóa đơn điện tử My – Invoice",
+        "mst": "0106820789",
+        "dia_chi": "Số 1/35 ngõ 196 đường Đại Mỗ, phường Đại Mỗ, quận Nam Từ Liêm, Tp Hà Nội",
+        "trang_thong_tin": "https://hoadondientuvn.info"
+    },
+    {
+        "stt": "47",
+        "ten_to_chuc": "Công ty Cổ phần Chứng số An toàn",
+        "mst": "0310151055",
+        "dia_chi": "X-04.77, tòa nhà North Towers, Sunrise City, số 27 Nguyễn Hữu Thọ, phường Tân Hưng, quận 7, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://www.SAFEinvoice.vn"
+    },
+    {
+        "stt": "48",
+        "ten_to_chuc": "Công ty Cổ phần công nghệ San Phú",
+        "mst": "0303430876",
+        "dia_chi": "Phòng 0206, Block A, tòa nhà Lexingtn, 67 Mai Chí Thọ, phường An Phú, thành phố Thủ Đức, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://www.spc-technology.com"
+    },
+    {
+        "stt": "49",
+        "ten_to_chuc": "Công ty TNHH Giấy vi tính Liên Sơn",
+        "mst": "0301452923",
+        "dia_chi": "34 Nguyễn Bỉnh Khiêm, phường Đa Kao, quận 1, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://hoadondientu.lienson.vn"
+    },
+    {
+        "stt": "50",
+        "ten_to_chuc": "Công ty TNHH Thương Mại dịch vụ Online VI NA",
+        "mst": "0314185087",
+        "dia_chi": "22/1/2 Nguyễn Văn Săng, phường Tân Sơn Nhì, quận Tân Phú, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://onlinevina.com.vn"
+    },
+    {
+        "stt": "51",
+        "ten_to_chuc": "Công ty Cổ phần dịch vụ viễn thông và in Bưu điện",
+        "mst": "0100687474",
+        "dia_chi": "Số 564, đường Nguyễn Văn Cừ, phường Gia Thụy, quận Long Biên, Tp Hà Nội",
+        "trang_thong_tin": "https://hoadondientu-ptp.vn"
+    },
+    {
+        "stt": "52",
+        "ten_to_chuc": "Công ty TNHH Tuần Châu",
+        "mst": "0400462489",
+        "dia_chi": "K484/34-36 Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Thành phố Đà Nẵng",
+        "trang_thong_tin": "http://e-invoicetuanchau.com"
+    },
+    {
+        "stt": "53",
+        "ten_to_chuc": "Công ty TNHH Minh Thư",
+        "mst": "3500456910",
+        "dia_chi": "68 Phan Chu Trinh, Phường 2, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "trang_thong_tin": "https://hoadonminhthuvungtau.com"
+    },
+    {
+        "stt": "54",
+        "ten_to_chuc": "Công ty Cổ phần phát triển công nghệ ACMAN",
+        "mst": "0104908371",
+        "dia_chi": "Số nhà 28, ngõ 460, đường Khương Đình, phường Hạ Đình, quận Thanh Xuân, Tp Hà Nội",
+        "trang_thong_tin": "https://www.acman.vn/hoa-don-dien-tu.html"
+    },
+    {
+        "stt": "55",
+        "ten_to_chuc": "Công ty TNHH Tư vấn thương mại Trí Việt Luật",
+        "mst": "0315191291",
+        "dia_chi": "435/26 Thống Nhất, phường 11, quận Gò Vấp, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://hoadonsovn.net"
+    },
+    {
+        "stt": "56",
+        "ten_to_chuc": "Công ty TNHH Đầu tư Hòn Ngọc Việt",
+        "mst": "0313844107",
+        "dia_chi": "L26 đường Lê Thị Riêng, khu phố 1, phường Thới An, quận 12, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://voice.hoadondientu.net.vn"
+    },
+    {
+        "stt": "57",
+        "ten_to_chuc": "Công ty TNHH Dịch vụ Trí Việt Luật",
+        "mst": "0311622035",
+        "dia_chi": "186/76 Vườn Lài, phường Tân Thành, quận Tân Phú, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://congtyinhoadon.com"
+    },
+    {
+        "stt": "58",
+        "ten_to_chuc": "Công ty Cổ phần truyền số liệu Việt Nam",
+        "mst": "0106361479",
+        "dia_chi": "Tầng 12 tòa nhà Việt Á, số 9 Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://ahoadon.com"
+    },
+    {
+        "stt": "59",
+        "ten_to_chuc": "Công ty TNHH NC9 Việt Nam",
+        "mst": "0312270160",
+        "dia_chi": "Số 87, đường Nguyễn Thị Thập, khu đô thị mới HimLam, phường Tân Hưng, quận 7, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://ameinvoice.com.vn"
+    },
+    {
+        "stt": "60",
+        "ten_to_chuc": "Công ty Cổ phần giải pháp First Trust",
+        "mst": "0104493085",
+        "dia_chi": "Số 17/36 đường Hoàng Quốc Việt, phường Nghĩa Đô, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://www.fts.com.vn/phan-mem-hoa-don-dien-tu/"
+    },
+    {
+        "stt": "61",
+        "ten_to_chuc": "Công ty TNHH Phần mềm Nhân Hòa",
+        "mst": "0101289966",
+        "dia_chi": "Tầng 4 tòa nhà 97 - 99 Láng Hạ, phường Láng Hạ, quận Đống Đa, Tp Hà Nội",
+        "trang_thong_tin": "https://hoadon.biz"
+    },
+    {
+        "stt": "62",
+        "ten_to_chuc": "Công ty TNHH Kế toán và tư vấn V.L.C",
+        "mst": "0303211948",
+        "dia_chi": "628 Lê Hồng Phong, phường 10, quận 10, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://ketoanvlc.com"
+    },
+    {
+        "stt": "63",
+        "ten_to_chuc": "Công ty Cổ phần Công nghệ và giải pháp Tâm Việt",
+        "mst": "0101622374",
+        "dia_chi": "Số 12, ngõ 1 Hà Chì 1, phường Hà Cầu, quận Hà Đông, Tp Hà Nội",
+        "trang_thong_tin": "http://tamvietgroup.vn"
+    },
+    {
+        "stt": "64",
+        "ten_to_chuc": "Công ty TNHH Dịch vụ phần mềm AVSE",
+        "mst": "0310768095",
+        "dia_chi": "B199/5 Nguyễn Văn Quá, khu phố 3, phường Đông Hưng Thuận, quận 12, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://hoadondientu.link"
+    },
+    {
+        "stt": "65",
+        "ten_to_chuc": "Công ty TNHH MTV in Bến Thành",
+        "mst": "0312961577",
+        "dia_chi": "160 Hai Bà Trưng, phường Đa Kao, quận 1, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://tracuuhoadon.benthanhvoice.vn"
+    },
+    {
+        "stt": "66",
+        "ten_to_chuc": "Công ty TNHH ZAMO",
+        "mst": "0313950909",
+        "dia_chi": "23.07 Block A2 chung cư Ký Nguyên đường 15B, phường Phú Mỹ, quận 7, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://koffi.vn"
+    },
+    {
+        "stt": "67",
+        "ten_to_chuc": "Công ty Cổ phần công nghệ VIETINFO",
+        "mst": "0311928954",
+        "dia_chi": "32 Xô Viết Nghệ Tĩnh, phường 19, quân Bình Thạnh, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://hddt.vietinfo.tech"
+    },
+    {
+        "stt": "68",
+        "ten_to_chuc": "Công ty Cổ phần phát triển phần mềm và công nghệ Bitware",
+        "mst": "0103770970",
+        "dia_chi": "Số 572 đường Nguyễn Trãi, phường Thanh Xuân Bắc, quận Thanh Xuân, Tp Hà Nội",
+        "trang_thong_tin": "http://www.bitware.vn/services/hoa-don-dien-tu/"
+    },
+    {
+        "stt": "69",
+        "ten_to_chuc": "Công ty Cổ phần phần mềm Rosy",
+        "mst": "0305142231",
+        "dia_chi": "Lầu 10, phòng 1005, 159 Điện Biên Phủ, phường 15, quận Bình Thạnh, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://rosysoft.vn"
+    },
+    {
+        "stt": "70",
+        "ten_to_chuc": "Công ty TNHH MTV thương mại dịch vụ Trần Đình Tùng",
+        "mst": "3702037020",
+        "dia_chi": "288/66/21 đường Huỳnh Văn Lũy, tổ 61 khu phố 7, phường Phú Lợi, Tp Thủ Dầu Một, tỉnh Bình Dương",
+        "trang_thong_tin": "https://trandinhtung.evat.vn"
+    },
+    {
+        "stt": "71",
+        "ten_to_chuc": "Công ty TNHH Tổng công ty Công nghệ và Giải pháp CMC",
+        "mst": "0101925883",
+        "dia_chi": "Tầng 16, CMC Tower, phố Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://store.cmcts.com.vn"
+    },
+    {
+        "stt": "72",
+        "ten_to_chuc": "Công ty TNHH Công nghệ và tư vấn Phương Nam",
+        "mst": "0316642395",
+        "dia_chi": "Số 904/46 Nguyễn Kiệm, phường 3, quận Gò Vấp, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://phuongnam.evat.vn/log"
+    },
+    {
+        "stt": "73",
+        "ten_to_chuc": "Công ty TNHH Dịch vụ kế toán - Tư vấn thuế TTL",
+        "mst": "0315194912",
+        "dia_chi": "134/2C đường Hoàng Hoa Thám, phường 12, quận Tân Bình, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://ttltax.com"
+    },
+    {
+        "stt": "74",
+        "ten_to_chuc": "Công ty Cô phần Công nghệ Phát triển hóa đơn điện tử Việt Nam",
+        "mst": "0315983667",
+        "dia_chi": "Tầng 9, 186 Bis Trần Quang Khải, phường Tân Định, quận 1, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://hoadondientuvietnam.vn"
+    },
+    {
+        "stt": "75",
+        "ten_to_chuc": "Công ty TNHH Phần mềm kế toán và dịch vụ thủ tục thuế Sài Gòn",
+        "mst": "0310926922",
+        "dia_chi": "SH 3.28 tầng 3 tòa nhà Viva Riverside, 1472 Võ Văn Kiệt, phường 03, quận 6, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://invoice.ehcm.vn"
+    },
+    {
+        "stt": "76",
+        "ten_to_chuc": "Công ty Cổ phần Phần mềm Thăng Long",
+        "mst": "0101010702",
+        "dia_chi": "Số 10, ngõ 104 phố Đào Tấn, phường Cống Vị, quận Ba Đình, Tp Hà Nội",
+        "trang_thong_tin": "http://thanglongsoft.com/index.php/linh-v-c-kinh-doanh/493-l-nh-va-c-kinh-doanh/493-1-l-nh-va-c-kinh-doanh"
+    },
+    {
+        "stt": "77",
+        "ten_to_chuc": "Công ty Cổ phần Hóa đơn điện tử TIG Thăng Long",
+        "mst": "0102720409",
+        "dia_chi": "Tầng 8, tháp B, tòa nhà Sông Đà, đường Phạm Hùng, phường Mỹ Đình 1, quận Nam Từ Liêm, Tp Hà Nội",
+        "trang_thong_tin": "http://tigtax.vn"
+    },
+    {
+        "stt": "78",
+        "ten_to_chuc": "Công ty TNHH Viễn thông Đông Sài Gòn",
+        "mst": "0314058603",
+        "dia_chi": "Tầng 1, tòa nhà Packsimex số 52 Đông Du, phường Bến Nghé, quận 1, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://www.vdsg-invoice.vn"
+    },
+    {
+        "stt": "79",
+        "ten_to_chuc": "Công ty Cổ phần Tin học Lạc Việt",
+        "mst": "0301448733",
+        "dia_chi": "23 Nguyễn Thị Huỳnh, phường 8, quận Phú Nhuận, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://accnet.vn/hoa-don-dien-tu"
+    },
+    {
+        "stt": "80",
+        "ten_to_chuc": "Công ty Cổ phần Công nghệ TADU",
+        "mst": "0313253288",
+        "dia_chi": "Số 05 Đồng Nai, phường 2, quận Tân Bình, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://autoinvoice.vn"
+    },
+    {
+        "stt": "81",
+        "ten_to_chuc": "Công ty Cổ phần Công nghệ UNIT",
+        "mst": "0309889835",
+        "dia_chi": "157 Nguyễn Thị Thập, phường Tân Phú, quận 7, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://unit.com.vn/"
+    },
+    {
+        "stt": "82",
+        "ten_to_chuc": "Công ty Cổ phần phát triển và ứng dụng phần mềm Bách Khoa",
+        "mst": "0202029650",
+        "dia_chi": "Tầng 3, tòa nhà Định vị Bách Khoa, số 561 Nguyễn Bỉnh Khiêm, phường Đằng Hải, quận Hải An, Tp Hải Phòng",
+        "trang_thong_tin": "https://hoadondientu.pmbk.vn"
+    },
+    {
+        "stt": "83",
+        "ten_to_chuc": "Công ty Cổ phần My Software",
+        "mst": "0108971656",
+        "dia_chi": "Số 54C, ngõ 63 phường Đại Mỗ, quận Nam Từ Liêm, Tp Hà Nội",
+        "trang_thong_tin": "https://mysoftware.vn"
+    },
+    {
+        "stt": "84",
+        "ten_to_chuc": "Công ty TNHH Công nghệ HT Sài Gòn",
+        "mst": "0312942260",
+        "dia_chi": "359/5 Vườn Lài, phường Phí Thọ Hòa, quận Tân Phú, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://ihoadondientu.net"
+    },
+    {
+        "stt": "85",
+        "ten_to_chuc": "Công ty TNHH WEBCASH Việt Nam",
+        "mst": "1201496252",
+        "dia_chi": "LK08-13, Khu phố 3, Phường 6, Thành phố Mỹ Tho, Tỉnh Tiền Giang",
+        "trang_thong_tin": "https://einvoice.webcashvietnam.com/"
+    },
+    {
+        "stt": "86",
+        "ten_to_chuc": "Công ty TNHH Phần mềm và Tư vấn Kim Tự Tháp",
+        "mst": "0303549303",
+        "dia_chi": "5 Hoa Sữa, phường 7, quận Phú Nhuận, thành phố Hồ Chí Minh",
+        "trang_thong_tin": "https://e-invoices.vn/"
+    },
+    {
+        "stt": "87",
+        "ten_to_chuc": "Công ty TNHH Phần mềm BRB",
+        "mst": "0311914694",
+        "dia_chi": "Tầng 4, 97-101 Nguyễn Công Trứ, phường Nguyễn Thái Bình, quận 1, Thành phố Hồ Chí Minh",
+        "trang_thong_tin": "http://brightbrain.vn/hoa-don-dien-tu/"
+    },
+    {
+        "stt": "88",
+        "ten_to_chuc": "Công ty TNHH Nhóm Mây",
+        "mst": "0312617990",
+        "dia_chi": "Số 50 đường số 34, phường An Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+        "trang_thong_tin": "https://www.cloudteam.vn"
+    },
+    {
+        "stt": "89",
+        "ten_to_chuc": "Công ty Cổ phần Hóa đơn điện tử VININVOICE",
+        "mst": "0109282176",
+        "dia_chi": "Số 10 ngõ 123/47, Thụy Phương, Bắc Từ Liêm, Thành phố Hà Nội",
+        "trang_thong_tin": "https://vininvoice.vn"
+    },
+    {
+        "stt": "90",
+        "ten_to_chuc": "Trung tâm Tin học và Công nghệ số",
+        "mst": "0102723181",
+        "dia_chi": "Số 25 Ngô Quyền, phường Tràng Tiền, quận Hoàn Kiếm, Tp Hà Nội",
+        "trang_thong_tin": "http://hoadonct.gov.vn"
+    },
+    {
+        "stt": "91",
+        "ten_to_chuc": "Công ty Cổ phần VETC",
+        "mst": "0106858609",
+        "dia_chi": "Số 167 phố Trung Kính, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội",
+        "trang_thong_tin": "https://vetc.com.vn"
+    },
+    {
+        "stt": "92",
+        "ten_to_chuc": "Công ty TNHH Phần mềm PVS",
+        "mst": "0315151651",
+        "dia_chi": "B19.21, Sunrise Cityview, số 33 Nguyễn Hữu Thọ, phường Tân Hưng, quận 7, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://pvssolution.com/"
+    },
+    {
+        "stt": "93",
+        "ten_to_chuc": "Công ty Cổ phần Dịch vụ Thương mại Việt Nam trực tuyến",
+        "mst": "0310151739",
+        "dia_chi": "191 Nam Kỳ Khởi Nghĩa, phường Võ Thị Sáu, quận 3, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://news.yoinvoice.vn"
+    },
+    {
+        "stt": "94",
+        "ten_to_chuc": "Công ty TNHH Ecount Việt Nam",
+        "mst": "0312575123",
+        "dia_chi": "Số 51 đường Nguyễn Cư Trinh, phường Nguyễn Cư Trinh, quận 1, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://ecount.com"
+    },
+    {
+        "stt": "95",
+        "ten_to_chuc": "Công ty Cổ phần ATIS",
+        "mst": "0107732197",
+        "dia_chi": "Số 167, phố Trung Kính, phường Yên Hòa, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://atis.com.vn/hoa-don-dien-tu"
+    },
+    {
+        "stt": "96",
+        "ten_to_chuc": "Công ty Cổ phần GMO-Z.com RUNSYSTEM",
+        "mst": "0101659906",
+        "dia_chi": "Tầng 6, tòa nhà Ocean Park, số 01 Đào Duy Anh, phường Phương Mai, quận Đống Đa, Tp Hà Nội",
+        "trang_thong_tin": "https://kaike.vn/hoa-don-dien-tu"
+    },
+    {
+        "stt": "97",
+        "ten_to_chuc": "Công ty Cổ phần Tin học - Viễn thông Hàng không",
+        "mst": "0103019524",
+        "dia_chi": "Số 412 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Tp Hà Nội",
+        "trang_thong_tin": "https://aits.vn/"
+    },
+    {
+        "stt": "98",
+        "ten_to_chuc": "Công ty TNHH Bizzi VietNam",
+        "mst": "0316114998",
+        "dia_chi": "Số 2-4-6 đường số 5, phường An Lợi Đông, Tp Thủ Đức, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://bizzi.vn/"
+    },
+    {
+        "stt": "99",
+        "ten_to_chuc": "Công ty Cổ phần Công nghệ BEE",
+        "mst": "0316636497",
+        "dia_chi": "L64 đường Cư Xá Phú Lâm A, phường 12, quận 6, Tp Hồ Chí Minh",
+        "trang_thong_tin": "http://beetek.vn/"
+    },
+    {
+        "stt": "100",
+        "ten_to_chuc": "Công ty Cổ phần MONT-E",
+        "mst": "0106249501",
+        "dia_chi": "Tầng 2, A1-A3 Tòa nhà Ecolife Capitol, số 58 Tố Hữu, phường Mễ Trì, quận Nam Từ Liêm, Tp Hà Nội",
+        "trang_thong_tin": "https://mont-e.com/"
+    },
+    {
+        "stt": "101",
+        "ten_to_chuc": "Công ty TNHH Tư vấn và Dịch vụ Home Casta",
+        "mst": "0201802839",
+        "dia_chi": "Khu dân cư Trung Hành 5 (tại nhà ông Lê Đức Đạt) phường Đằng Lâm, quận Hải An, Tp Hải Phòng",
+        "trang_thong_tin": "https://homecasta.vn"
+    },
+    {
+        "stt": "102",
+        "ten_to_chuc": "Công ty CP Tư vấn và Chuyển giao công nghệ Sơn Phát",
+        "mst": "4601328480",
+        "dia_chi": "Số nhà 2, ngách 32, tổ 9, phường Tân Lập, tp Thái Nguyên, tỉnh Thái Nguyên.",
+        "trang_thong_tin": "https://sonphat.vn"
+    },
+    {
+        "stt": "103",
+        "ten_to_chuc": "Công ty Cổ phần công nghệ KIOTVIET",
+        "mst": "0104359717",
+        "dia_chi": "Tầng 6-7, số 1B Yết Kiêu, phường Trần Hưng Đạo, quận Hoàn Kiếm, Tp Hà Nội",
+        "trang_thong_tin": "https://hoadondientu.kiotviet.vn"
+    },
+    {
+        "stt": "104",
+        "ten_to_chuc": "Công ty Cổ phần công nghệ HARAVAN",
+        "mst": "0312662961",
+        "dia_chi": "Tầng 6, 182 Lê Đại Hành, phường 15, quận 11, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://haravan.com/pages/giai-phap-xuat-hoa-don-dien-tu"
+    },
+    {
+        "stt": "105",
+        "ten_to_chuc": "Công ty Cổ phần IPOS.VN",
+        "mst": "0104789847",
+        "dia_chi": "Tầng 11 tòa nhà VP Hòa Bình, 106 Hoàng Quốc Việt, phường Nghĩa Đô, quận Cầu Giấy, Tp Hà Nội",
+        "trang_thong_tin": "https://ipos.vn/"
+    },
+    {
+        "stt": "106",
+        "ten_to_chuc": "Công ty Cổ phần Dịch vụ Chữ ký số INTRUST",
+        "mst": "0110333410",
+        "dia_chi": "Lô V7.6 tầng 7, trung tâm thương mại A-B Imperia Garden, số 203 Nguyễn Huy Tưởng, phường Thanh Xuân Trung, quận Thanh Xuân, Tp Hà Nội.",
+        "trang_thong_tin": "https://intrustdss.vn/san-pham/chi-tiet/4"
+    },
+    {
+        "stt": "107",
+        "ten_to_chuc": "Công ty Cổ phần SCHOOL TECH",
+        "mst": "0317509886",
+        "dia_chi": "49 Bàn Cờ, phường 3, quận 3, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://yoyoin.yoyoschool.vn"
+    },
+    {
+        "stt": "108",
+        "ten_to_chuc": "Công ty Cổ phần Công nghệ Sapo",
+        "mst": "0103243195",
+        "dia_chi": "Tầng 6, tòa nhà Ladeco, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, Tp Hà Nội",
+        "trang_thong_tin": "https://www.sapo.vn/blog/sapo-invoice"
+    },
+    {
+        "stt": "109",
+        "ten_to_chuc": "Công ty TNHH Pancake Việt Nam",
+        "mst": "0109039397",
+        "dia_chi": "Tầng 12A, tòa A3 Ecolife Capitol, số 58 Tố Hữu, phường Trung Văn, quận Nam Từ Liêm, Tp Hà Nội",
+        "trang_thong_tin": "https://pos.pancake.vn/e-invoice"
+    },
+    {
+        "stt": "110",
+        "ten_to_chuc": "Công ty Cổ phần Technology Convergence Corporation",
+        "mst": "0109045760",
+        "dia_chi": "Tầng 2, khu trung tâm thương mại Hàng Da, số 1 phố Hàng Da, phường Cửa Đông, quận Hoàn Kiếm, Tp Hà Nội",
+        "trang_thong_tin": "https://netacom.vn/neta-einvoice.html"
+    },
+    {
+        "stt": "111",
+        "ten_to_chuc": "Công ty Cổ phần Giải pháp số IGAS",
+        "mst": "0111090707",
+        "dia_chi": "Lô A3-14 đường Hà Phong 3, khu đô thị Hà Phong, xã Mê Linh, Tp Hà Nội",
+        "trang_thong_tin": "https://hoadon.igas.vn"
+    },
+    {
+        "stt": "112",
+        "ten_to_chuc": "Công ty TNHH OG Technologies",
+        "mst": "0109996406",
+        "dia_chi": "Tầng 46, tòa nhà Bitexco Financial Tower, 02 Hải Triều, phường Sài Gòn, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://invoi.vn"
+    },
+    {
+        "stt": "113",
+        "ten_to_chuc": "Công ty Cổ phần giải pháp doanh nghiệp TTC",
+        "mst": "0318511655",
+        "dia_chi": "279-281 Cộng Hòa, phường Tân Bình, Tp Hồ Chí Minh",
+        "trang_thong_tin": "https://ttc.t-hoadon.vn"
+    },
+    {
+        "stt": "114",
+        "ten_to_chuc": "Công ty Cổ phần phần mềm IAM Việt Nam",
+        "mst": "0109193102",
+        "dia_chi": "Số 5, xóm Sông Cầu, thôn Thiên Đông, xã Tam Hưng, Tp Hà Nội",
+        "trang_thong_tin": "https://invoice.iamsoftware.com.vn"
+    },
+    {
+        "stt": "115",
+        "ten_to_chuc": "Công ty Cổ phần Công nghệ thông minh SFIN",
+        "mst": "0109959309",
+        "dia_chi": "Số 89B, ngõ 255 Lĩnh Nam, phường Vĩnh Hưng, Tp Hà Nội",
+        "trang_thong_tin": "https://sfin.vn/"
+    }
+]
